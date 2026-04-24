@@ -1,4 +1,4 @@
 {
     "version": 3,
-    "rules": [{ "domain_suffix": ["hcfy.ai"] }]
+    "rules": [{ "domain_suffix": ["hcfy.ai", "discovery-lookup.syncthing.net", "discovery-announce-v4.syncthing.net", "cn.pool.ntp.org"] }]
 }
