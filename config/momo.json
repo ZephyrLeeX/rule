@@ -276,7 +276,7 @@
         ],
         "rule_set": [
             {
-                "tag": "custom-ditect",
+                "tag": "custom-direct",
                 "type": "remote",
                 "format": "source",
                 "url": "https://gh-proxy.com/https://raw.githubusercontent.com/ZephyrLeeX/rule/main/rules/direct.json",
