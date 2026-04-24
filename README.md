@@ -1,9 +1,3 @@
-这是一个为你量身定制的 GitHub 风格 README 模板。我为你增加了**项目简介、清晰的目录结构、Sub-Store 脚本参数解析以及基础的使用指引**，让整个项目看起来更加专业且易于维护。
-
-你可以直接复制以下 Markdown 内容并粘贴到你的 `README.md` 文件中。
-
-***
-
 # 📦 Sing-box Personal Config & Rulesets
 
 本项目包含我个人自用的 [sing-box](https://github.com/SagerNet/sing-box) 客户端配置文件及自定义规则集。
