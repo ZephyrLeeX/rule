@@ -444,7 +444,6 @@
         {
             "tag": "tun-in",
             "type": "tun",
-            "interface_name": "momo",
             "address": ["172.31.0.1/30"],
             "stack": "system",
             "strict_route": true,
