@@ -31,6 +31,7 @@
                 ],
                 "server": "foreign"
             },
+            { "rule_set": "geosite-ai", "server": "foreign" },
             {
                 "rule_set": [
                     "geosite-cn",
@@ -43,7 +44,7 @@
         ],
         "final": "foreign",
         "client_subnet": "223.5.5.0/24",
-        "strategy": "prefer_ipv4",
+        "strategy": "ipv4_only",
         "reverse_mapping": true
     },
     "outbounds": [
@@ -63,7 +64,13 @@
         {
             "tag": "🧠 AI",
             "type": "selector",
-            "outbounds": ["🇸🇬 狮城手动", "🇯🇵 日本手动", "🇺🇲 美国手动", "🇭🇰 香港手动", "🇹🇼 台湾手动"]
+            "outbounds": [
+                "🇸🇬 狮城手动",
+                "🇯🇵 日本手动",
+                "🇺🇲 美国手动",
+                "🇭🇰 香港手动",
+                "🇹🇼 台湾手动"
+            ]
         },
         {
             "tag": "📹 YouTube",
