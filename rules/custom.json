@@ -8,7 +8,10 @@
     },
     {
       "domain_suffix": [
-        "example.invalid"
+        "example.invalid",
+        "d4c.srv.nintendo.net",
+        "d4c.nintendo.net",
+        "download.nvidia.com"
       ]
     },
     {
