@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "custom-test.invalid"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "example.invalid"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "192.0.2.100/32"
+      ]
+    }
+  ]
+}
